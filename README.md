@@ -1,5 +1,4 @@
 # WangCalculator
-Design of a scientific calculator with the use of C# programming language and .NET environment.
 
 Simple scientific calculator with the working name "Wang Calculator". The project was made for the purposes of the university task. It was created using the C# language and the „.NET” environment. The application allows you to view the history of entered expressions. The styling of the graphic design was inspired by the appearance of a real device. In order to expand the functionality of the application, additional subprograms have been introduced, which include: complex number calculator, numeral systems calculator and unit converter. Additional subprograms are available from the "Extras" panel, which is located under the “gear” icon.
 
