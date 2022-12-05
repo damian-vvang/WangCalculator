@@ -40,7 +40,7 @@
             // 
             this.button_unit_converter.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button_unit_converter.BackgroundImage")));
             this.button_unit_converter.FlatAppearance.BorderSize = 0;
-            this.button_unit_converter.Location = new System.Drawing.Point(97, 146);
+            this.button_unit_converter.Location = new System.Drawing.Point(102, 149);
             this.button_unit_converter.Name = "button_unit_converter";
             this.button_unit_converter.Size = new System.Drawing.Size(300, 65);
             this.button_unit_converter.TabIndex = 0;
@@ -50,7 +50,7 @@
             // button_numeral_systems_calculator
             // 
             this.button_numeral_systems_calculator.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button_numeral_systems_calculator.BackgroundImage")));
-            this.button_numeral_systems_calculator.Location = new System.Drawing.Point(97, 297);
+            this.button_numeral_systems_calculator.Location = new System.Drawing.Point(102, 300);
             this.button_numeral_systems_calculator.Name = "button_numeral_systems_calculator";
             this.button_numeral_systems_calculator.Size = new System.Drawing.Size(300, 65);
             this.button_numeral_systems_calculator.TabIndex = 2;
@@ -60,7 +60,7 @@
             // button_complex_numbers_calculator
             // 
             this.button_complex_numbers_calculator.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button_complex_numbers_calculator.BackgroundImage")));
-            this.button_complex_numbers_calculator.Location = new System.Drawing.Point(97, 221);
+            this.button_complex_numbers_calculator.Location = new System.Drawing.Point(102, 224);
             this.button_complex_numbers_calculator.Name = "button_complex_numbers_calculator";
             this.button_complex_numbers_calculator.Size = new System.Drawing.Size(300, 65);
             this.button_complex_numbers_calculator.TabIndex = 3;
@@ -70,7 +70,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
-            this.pictureBox1.Location = new System.Drawing.Point(65, 48);
+            this.pictureBox1.Location = new System.Drawing.Point(70, 51);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(365, 80);
             this.pictureBox1.TabIndex = 4;
@@ -81,7 +81,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(501, 400);
+            this.ClientSize = new System.Drawing.Size(506, 406);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.button_complex_numbers_calculator);
             this.Controls.Add(this.button_numeral_systems_calculator);

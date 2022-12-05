@@ -12,3 +12,17 @@ C:\Users\homer\Desktop\WangCalc\WangCalculator\obj\x86\Debug\WangCalculator.Comp
 C:\Users\homer\Desktop\WangCalc\WangCalculator\obj\x86\Debug\WangCalculator.Options.resources
 C:\Users\homer\Desktop\WangCalc\WangCalculator\obj\x86\Debug\WangCalculator.UnitConverter.resources
 C:\Users\homer\Desktop\WangCalc\WangCalculator\obj\x86\Debug\WangCalculator.NumeralSystemsCalculator.resources
+E:\GitHub Repo's\WangCalculator\WangCalculator\bin\Debug\WangCalculator.exe.config
+E:\GitHub Repo's\WangCalculator\WangCalculator\bin\Debug\WangCalculator.exe
+E:\GitHub Repo's\WangCalculator\WangCalculator\bin\Debug\WangCalculator.pdb
+E:\GitHub Repo's\WangCalculator\WangCalculator\obj\x86\Debug\WangCalculator.csprojAssemblyReference.cache
+E:\GitHub Repo's\WangCalculator\WangCalculator\obj\x86\Debug\WangCalculator.Calculator.resources
+E:\GitHub Repo's\WangCalculator\WangCalculator\obj\x86\Debug\WangCalculator.ComplexNumbersCalculator.resources
+E:\GitHub Repo's\WangCalculator\WangCalculator\obj\x86\Debug\WangCalculator.NumeralSystemsCalculator.resources
+E:\GitHub Repo's\WangCalculator\WangCalculator\obj\x86\Debug\WangCalculator.Options.resources
+E:\GitHub Repo's\WangCalculator\WangCalculator\obj\x86\Debug\WangCalculator.Properties.Resources.resources
+E:\GitHub Repo's\WangCalculator\WangCalculator\obj\x86\Debug\WangCalculator.UnitConverter.resources
+E:\GitHub Repo's\WangCalculator\WangCalculator\obj\x86\Debug\WangCalculator.csproj.GenerateResource.cache
+E:\GitHub Repo's\WangCalculator\WangCalculator\obj\x86\Debug\WangCalculator.csproj.CoreCompileInputs.cache
+E:\GitHub Repo's\WangCalculator\WangCalculator\obj\x86\Debug\WangCalculator.exe
+E:\GitHub Repo's\WangCalculator\WangCalculator\obj\x86\Debug\WangCalculator.pdb
