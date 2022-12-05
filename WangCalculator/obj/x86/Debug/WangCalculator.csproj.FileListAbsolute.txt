@@ -1,0 +1,14 @@
+C:\Users\homer\Desktop\WangCalc\WangCalculator\obj\x86\Debug\WangCalculator.csprojAssemblyReference.cache
+C:\Users\homer\Desktop\WangCalc\WangCalculator\obj\x86\Debug\WangCalculator.Properties.Resources.resources
+C:\Users\homer\Desktop\WangCalc\WangCalculator\obj\x86\Debug\WangCalculator.csproj.GenerateResource.cache
+C:\Users\homer\Desktop\WangCalc\WangCalculator\obj\x86\Debug\WangCalculator.csproj.CoreCompileInputs.cache
+C:\Users\homer\Desktop\WangCalc\WangCalculator\bin\Debug\WangCalculator.exe.config
+C:\Users\homer\Desktop\WangCalc\WangCalculator\bin\Debug\WangCalculator.exe
+C:\Users\homer\Desktop\WangCalc\WangCalculator\bin\Debug\WangCalculator.pdb
+C:\Users\homer\Desktop\WangCalc\WangCalculator\obj\x86\Debug\WangCalculator.exe
+C:\Users\homer\Desktop\WangCalc\WangCalculator\obj\x86\Debug\WangCalculator.pdb
+C:\Users\homer\Desktop\WangCalc\WangCalculator\obj\x86\Debug\WangCalculator.Calculator.resources
+C:\Users\homer\Desktop\WangCalc\WangCalculator\obj\x86\Debug\WangCalculator.ComplexNumbersCalculator.resources
+C:\Users\homer\Desktop\WangCalc\WangCalculator\obj\x86\Debug\WangCalculator.Options.resources
+C:\Users\homer\Desktop\WangCalc\WangCalculator\obj\x86\Debug\WangCalculator.UnitConverter.resources
+C:\Users\homer\Desktop\WangCalc\WangCalculator\obj\x86\Debug\WangCalculator.NumeralSystemsCalculator.resources
