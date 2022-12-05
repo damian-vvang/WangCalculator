@@ -15,7 +15,7 @@ Simple scientific calculator with the working name "Wang Calculator". The projec
 ![complex_numbers_calculator](https://user-images.githubusercontent.com/116505961/205753369-a8286a62-d917-41ff-8c12-8153ff9b6232.gif)
 
 ## Extras - an additional selection panel.
-![extras](https://user-images.githubusercontent.com/116505961/205753815-d4ac9753-534f-4797-b4a5-96e7eb8d7f38.JPG)
+![extras](https://user-images.githubusercontent.com/116505961/205756785-10274075-0f63-4631-adf2-a7eaf3ec4310.JPG)
 
 ## Features
 
