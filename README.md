@@ -2,7 +2,7 @@
 
 Simple scientific calculator with the working name "Wang Calculator". The project was made for the purposes of the university task. It was created using the C# language and the „.NET” environment. The application allows you to view the history of entered expressions. The styling of the graphic design was inspired by the appearance of a real device. In order to expand the functionality of the application, additional subprograms have been introduced, which include: complex number calculator, numeral systems calculator and unit converter. Additional subprograms are available from the "Extras" panel, which is located under the “gear” icon.
 
-## Preview - WangCalculator - main window
+## Preview - main window
 ![calculator](https://user-images.githubusercontent.com/116505961/205752955-e93173ca-685e-41be-936f-a7a9d6b63524.gif)
 
 ## Unit Converter
