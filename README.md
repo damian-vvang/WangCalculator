@@ -17,6 +17,9 @@ Simple scientific calculator with the working name "Wang Calculator". The projec
 -	Operation only with the on-screen keyboard,
 -	Memory functions (MS, MR, MC, M+, M-),
 
+## Requirements
+
+- Resolution 1920x1080 (or higher), 
 
 ## Tech Stack
 
