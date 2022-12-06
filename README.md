@@ -6,7 +6,7 @@ Simple scientific calculator with the working name "Wang Calculator." The projec
 
 ![calculator](https://user-images.githubusercontent.com/116505961/205752955-e93173ca-685e-41be-936f-a7a9d6b63524.gif)
 
-## Adjustable window dimensions
+## Adjustable window dimensions:
 
 ![adjustable_window_dimensions](https://user-images.githubusercontent.com/116505961/205779014-93101d87-0f46-4712-b21b-3fb6c0e01eb0.gif)
 
