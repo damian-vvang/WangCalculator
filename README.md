@@ -5,6 +5,9 @@ Simple scientific calculator with the working name "Wang Calculator". The projec
 ## Preview - main window
 ![calculator](https://user-images.githubusercontent.com/116505961/205752955-e93173ca-685e-41be-936f-a7a9d6b63524.gif)
 
+## Adjustable window dimensions
+![adjustable_window_dimensions](https://user-images.githubusercontent.com/116505961/205779014-93101d87-0f46-4712-b21b-3fb6c0e01eb0.gif)
+
 ## Unit Converter
 ![unit_converter](https://user-images.githubusercontent.com/116505961/205753047-228cb9d2-27c5-42ea-b87f-3a6fa94756d6.gif)
 
